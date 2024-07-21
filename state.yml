@@ -1,0 +1,15 @@
+lastupdatecheck: 0
+recentrepos:
+    - /Users/drewglavich/documents/projects/omoi/frontend
+startuppopupversion: 5
+lastversion: 0.43.1
+customcommandshistory:
+    - q
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 12
+renamesimilaritythreshold: 50
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
