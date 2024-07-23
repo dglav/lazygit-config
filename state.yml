@@ -1,15 +1,21 @@
 lastupdatecheck: 0
 recentrepos:
+    - /Users/drewglavich/Library/Application Support/lazygit
+    - /opt/homebrew
+    - /Users/drewglavich/Documents/Optimind/repositories/Loogia-general
+    - /Users/drewglavich/Documents/Projects/omoi/frontend
+    - /Users/drewglavich/documents/projects/sigma-investment-insights
     - /Users/drewglavich/documents/projects/omoi/frontend
+    - /Users/drewglavich/.config/nvim
 startuppopupversion: 5
 lastversion: 0.43.1
 customcommandshistory:
     - q
-hidecommandlog: false
+hidecommandlog: true
 ignorewhitespaceindiffview: false
-diffcontextsize: 12
+diffcontextsize: 23
 renamesimilaritythreshold: 50
 localbranchsortorder: recency
-remotebranchsortorder: alphabetical
+remotebranchsortorder: date
 gitlogorder: topo-order
-gitlogshowgraph: always
+gitlogshowgraph: when-maximised
